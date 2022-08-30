@@ -12,7 +12,6 @@ Projektmappen innehåller en README.md fil ✅
 Uppgiften lämnas in i tid! ✅
 
 Krav för VG:
-
 Alla punkter för godkänt är uppfyllda 
 Resursen i ert API skall även ha endpoints för PUT, DELETE och GET för en entitet 
 
@@ -22,7 +21,12 @@ Får information om produkter
 
 Vill du öppna filen?
 Öppna upp terminalen i ditt IDE.
-Skriv in ""
+Skriv in:
+Npm i
+Npm start
 
-Repo: 
+Store:
+Npm i
+Npm run dev
 
+Repo: https://github.com/donyateimouri/API
