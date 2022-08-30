@@ -1,1 +1,10 @@
 
+.product-info{
+    text-align: left!important;
+}
+.product-thumbnail{
+    display: block;
+    width: 90%;
+    border-radius: 10px;
+    margin: 0 auto;
+}
