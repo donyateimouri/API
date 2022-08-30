@@ -1,1 +1,7 @@
-
+body {
+    background-color: rgb(44, 44, 44);
+}
+.img-fluid{
+    width: 100%;
+    margin: 0 auto;
+}
