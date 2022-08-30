@@ -1,1 +1,18 @@
 
+### Get all products
+GET https://dummyjson.com/products
+
+### Get a single product
+GET https://dummyjson.com/products/1
+
+
+### Login user and get token
+POST https://dummyjson.com/auth/login
+Content-Type: application/json
+
+{
+    username: 'kminchelle',
+    password: '0lelplR',
+    // expiresInMins: 60, // optional
+}
+
