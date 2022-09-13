@@ -11,21 +11,22 @@ Git & GitHub har använts ✅
 Projektmappen innehåller en README.md fil ✅
 Uppgiften lämnas in i tid! ✅
 
-Krav för VG:
-Alla punkter för godkänt är uppfyllda 
-Resursen i ert API skall även ha endpoints för PUT, DELETE och GET för en entitet 
-
 Mitt projekt:
 Extern API - https://dummyjson.com/
 Får information om produkter
 
 Vill du öppna filen?
 Öppna upp terminalen i ditt IDE.
+
 Skriv in:
+
+Cd server
 Npm i
-Npm start
+Node server.js
 
 Store:
+
+Cd store
 Npm i
 Npm run dev
 
